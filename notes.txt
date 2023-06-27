@@ -1,1 +1,2 @@
 httpd -f /home/runner/c2/httpd.conf &
+pkill -f httpd
