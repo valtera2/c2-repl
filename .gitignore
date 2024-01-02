@@ -2,3 +2,4 @@ httpd.pid
 error_log
 access_log
 frontends/*
+temp/logs/*
