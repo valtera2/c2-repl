@@ -3,3 +3,4 @@ error_log
 access_log
 frontends/*
 temp/logs/*
+.ccls-cache/*
