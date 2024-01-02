@@ -1,2 +1,3 @@
 httpd -f /home/runner/c2/httpd.conf &
-pkill -f httpd
+
+nginx -p /home/runner/c2/temp/conf/
